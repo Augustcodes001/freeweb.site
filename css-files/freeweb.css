@@ -241,7 +241,6 @@ a{
 				color: var(--accent);
 				font-size: 1.1em;
 				font-weight: 500;
-				font-family: cursive;
 					text-transform: capitalize;
 			}
 
@@ -413,7 +412,7 @@ a{
 			}
 			.soon h4{
 				color: var(--accent);
-				font-family: cursive;
+				/* font-family: cursive; */
 				text-align:left;
 				font-size: 1.1em;
 				padding-bottom: .4em;
@@ -520,7 +519,7 @@ a{
 				color: var(--accent);
 				font-size: 1.1em;
 				font-weight: 500;
-				font-family: cursive;
+				/* font-family: cursive; */
 			}
 
 			.col-txt-services h3 {
@@ -607,7 +606,7 @@ a{
 				font-size: 1.1em;
 				font-weight: 500;
 				color:var(--accent);
-				font-family: cursive;
+				/* font-family: cursive; */
 			}
 
 			.ass-text h3 {
@@ -699,7 +698,7 @@ a{
 			border-left-color: transparent;
 			border-right-color: transparent;
 			padding-bottom: 10px;
-			font-family: cursive;
+			/* font-family: cursive; */
 		}
 
 		.back-prints h3 {
@@ -774,7 +773,7 @@ a{
 			font-size: 1.1em;
 			color: var(--accent);
 			font-weight: 500;
-			font-family: cursive;
+			/* font-family: cursive; */
 		}
 
 		.col-find h3 {
@@ -858,7 +857,7 @@ a{
 			.col-price-txt h4{
 				color: var(--accent);
 				font-size: 1.1em;
-				font-family: cursive;
+				/* font-family: cursive; */
 			}
 				.col-price-txt h3{
 				color: var(--dark);
@@ -963,7 +962,7 @@ a{
 				font-weight: 500;
 				color:var(--accent);
 				text-align: center;
-				font-family: cursive;
+				/* font-family: cursive; */
 			}
 
 			.pricing-main-txt-f h3 {
